@@ -4,7 +4,7 @@ An MCP server for generating Qwen3 embedding vectors
 
 > **Local model. No API calls. Automatic caching.** Generate embeddings using Qwen3-Embedding-0.6B without internet dependency.
 
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Proprietary-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](https://github.com/AuraFriday/mcp-link-server)
 
